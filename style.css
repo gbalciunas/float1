@@ -1,0 +1,89 @@
+
+
+body {
+    background-color: beige;
+    font-size: 16px;
+    padding: 20px;
+    padding-right: 33%;
+   
+}
+
+h1 {
+    color: #0974b3;
+    
+}
+
+h3 {
+    font-size: 16px;
+    color: #666;
+    padding-bottom: 15px;
+}
+
+
+div {
+
+    color: #666;
+    margin: 0;
+    padding: 0;
+
+}
+
+
+section {
+
+    background-color: beige;
+    border-top: 5px solid #0974b3;
+    overflow: auto;
+    padding: 30px;
+}
+
+section img {
+
+    width: 150px;
+    height: 200px;
+    padding-bottom: 15px;
+    object-fit: cover;
+    object-position: left;
+}
+
+
+
+section p {
+
+    text-align: justify;
+    color: #666;
+    
+   
+   
+}
+
+.float-left {
+    float: left;
+    margin-right: 15px;
+}
+
+button {
+    border: none;   
+}
+
+button {
+    border-bottom: 1px solid purple;
+    color: purple;
+
+}
+
+.column1 {
+  float: left;
+  width: 46%;
+  padding-right: 50px;
+  
+  }
+
+ 
+
+.column2 img {
+
+    height: 170px;
+    width: 140px;
+  
+}
